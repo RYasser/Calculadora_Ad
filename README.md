@@ -1,2 +1,2 @@
 # Calculadora_Ad
-Calculadora criada com componentes para praticar o conceito.
+Calculadora criada com componentes React para praticar o conceito.
